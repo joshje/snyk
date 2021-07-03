@@ -14,7 +14,7 @@ Snyk helps you find, fix and monitor for known vulnerabilities in Node.js npm pa
 snyk [options] [command] [package]
 ```
 
-The package argument is optional. If no package is given, Snyk will run the command against the current working directory allowing you test you non-public applications.
+The package argument is optional. If no package is given, Snyk will run the command against the current working directory allowing you test your non-public applications.
 
 Run `snyk --help` to get a quick overview of all commands.
 
